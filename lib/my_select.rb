@@ -7,6 +7,7 @@ def my_select(collection)
      array << collection[i]
    else
      false
+   end
   i+=1
  end
  return array
